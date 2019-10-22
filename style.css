@@ -1,0 +1,425 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.background{
+	margin: 0 auto;
+	border: 2px solid #000000;
+	width: 1300px;
+	height: 1900px;
+	background-color: #EDEDED;
+}
+.top{
+	margin: 0px;
+	padding: 0px;
+	font-family: Agency FB;
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 200px;
+	margin-top: 30px;
+}
+.left{
+	color:blue;
+	float: right;
+	margin-right: 450px;
+	margin-top: -22px;
+	font-weight: bold;
+}
+.anh{
+	float: right;
+	margin-right: 200px;
+	margin-top: -26px;
+	text-decoration: none;
+	font-size: 20px;
+}
+.nav{
+	background-color: #DDDDDD;
+	height: 64px;
+	margin: 30px 200px 0px 200px;
+}
+.nav ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav ul li:hover{
+	background-color: #1DB2E8;
+	color:white;
+}
+.cor{
+	font-family: arial;
+	color:black;
+	margin-top: 70px;
+	font-size: 16px;
+}
+.ful{
+	font-family: arial;
+	color:#1DB2E8;
+	font-size: 20px;
+	margin-top: 15px;
+}
+.Lorem{
+	font-style: arial;
+	font-size: 13px;
+	color:black;
+	float: left;
+	text-align: justify;
+	margin-right: 50em;
+	margin-top: -10px;
+}
+.button{
+	background-color: #0070BC;
+	color:white;
+	width: 13em;
+	height: 3em;
+	margin-top: 40px;
+}
+.pic{
+	float: right;
+	margin-top: -230px;
+}
+.res{
+	font-family: arial;
+	color:black;
+	margin-top: 26em;
+	margin-left: 12.5em;
+	font-weight: bold;
+}
+.rpa{
+	font-style: arial;
+	font-size: 13px;
+	float: left;
+	text-align: justify;
+	margin-left: 15.5em;
+	margin-right: 72em;
+	margin-top: -3px;
+}
+.ac{
+    font-family: arial;
+	color:black;
+	margin-top: -2em;
+	margin-left: 28em;
+	font-weight: bold;
+}
+.pa{
+    font-style: arial;
+	font-size: 13px;
+	float: left;
+	text-align: justify;
+	margin-left: 34.5em;
+	margin-right: 52em;
+	margin-top: -76px;	
+}
+.fa{
+    font-family: arial;
+	color:black;
+	margin-top: -2.2em;
+	margin-left: 44em;
+	font-weight: bold;
+}
+.fp{
+    font-style: arial;
+	font-size: 13px;
+	float: left;
+	text-align: justify;
+	margin-left: 54.2em;
+	margin-right: 34em;
+	margin-top: -76px;
+}
+.Cd{
+    font-family: arial;
+	color:black;
+	margin-top: -2.2em;
+	margin-left: 58em;
+	font-weight: bold;
+}
+.Cpa{
+    font-style: arial;
+	font-size: 13px;
+	float: left;
+	text-align: justify;
+	margin-left: 71.5em;
+	margin-right: 17em;
+	margin-top: -76px;
+}
+.border{
+	border: 1px solid #DFDFDF;
+	width: 57em;
+	height: 12em;
+	margin-top: 8em;
+	margin-left: 12.5em;
+	background-color: #DFDFDF;
+}
+.bopa{
+	font-family: arial;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 40px;
+}
+.bosepa{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+}
+.bupa{
+	background-color: #0070BD;
+	color:white;
+	text-align: center;
+	width: 150px;
+	height: 40px;
+	margin-left: 28em;
+}
+.smpa{
+	font-family: arial;
+	font-size: 20px;
+	margin-left: 10em;
+	margin-top: 40px;
+	font-weight: bold;
+}
+.tap{
+	width: 12em;
+	height: 6em;
+	margin-left: 12.5em;
+	border: 3px solid black;
+}
+.lima{
+	width: 12em;
+	height: 6em;
+	margin-left: 2.3em;
+	border: 3px solid black;
+}
+.dima{
+	width: 12em;
+	height: 6em;
+	margin-left: 2.3em;
+	border: 3px solid black;
+}
+.buima{
+	width: 12em;
+	height: 6em;
+	margin-left: 2.3em;
+	border: 3px solid black;
+}
+.pay{
+	font-family: arial;
+	color:#3AA2F9;
+	font-size: 12px;
+	margin-left: 16.6em;
+	font-weight: bold;
+}
+.stu{
+	font-family: arial;
+	color:#3AA2F9;
+	font-size: 12px;
+	margin-left: 36.4em;
+	margin-top: -2em;
+	font-weight: bold;
+}
+.awe{
+	font-family: arial;
+	color:#3AA2F9;
+	font-size: 12px;
+	margin-left: 56.4em;
+    margin-top: -2em;
+    font-weight: bold;
+}
+.cre{
+	font-family: arial;
+	color:#3AA2F9;
+	font-size: 12px;
+	margin-left: 76.4em;
+	margin-top: -2em;
+	font-weight: bold;
+}
+.tpa{
+	font-family: arial;
+	font-size: 11px;
+	margin-left: 18.2em;
+	margin-right: 82em;
+	text-align: justify;
+}
+.lipa{
+    font-family: arial;
+	font-size: 11px;
+	margin-left: 40em;
+	margin-right: 60em;
+	margin-top: -5.5em;
+	text-align: justify;	
+}
+.dipa{
+	font-family: arial;
+	font-size: 11px;
+	margin-left: 61.5em;
+	margin-right: 38.4em;
+	text-align: justify;
+	margin-top: -5.5em;
+}
+.bupar{
+    font-family: arial;
+	font-size: 11px;
+	margin-left: 83.5em;
+	margin-right: 16.5em;
+	text-align: justify;
+	margin-top: -5.5em;	
+}
+.arpa{
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 10em;
+}
+.searpa{
+    font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 33.8em;
+	margin-top: -2em;	
+}
+.asepa{
+	font-family: arial;
+	font-size: 13px;
+	margin-left: 17em;
+	margin-right: 51em;
+	margin-top: 40px;
+	text-align: justify;
+	border: 1px solid #DFDFDF;
+	background-color: #DFDFDF;
+	height: 7em;
+	vertical-align: middle;
+	font-style: italic;
+}
+.unorder{
+	font-family: arial;
+	font-size: 11px;
+	margin-left: 59em;
+	line-height: 1.7em;
+	margin-top: -139px;
+	font-weight: bold;
+	margin-right: 15em;
+	margin-top: -10em;
+}
+.brpase{
+	font-family: arial;
+	font-style: italic;
+	color:#098BF7;
+	margin-left: 15em;
+	margin-top: -3em;
+}
+.sbrpa{
+	font-family: arial;
+	font-style: italic;
+	margin-left: 24em;
+	margin-top: -2.1em;
+}
+.blackback{
+	border:1px solid #333333;
+	width: 81.2em;
+	height: 20em;
+	background-color: #333333;
+	margin-top: 50px;
+}
+.blpa{
+	font-family: arial;
+	font-size: 16px;
+	color:white;
+	margin-left: 12.5em;
+	margin-top: 90px;
+}
+.blpase{
+    font-family: arial;
+	font-size: 16px;
+	color:white;
+	margin-left: 28em;
+	margin-top: -33px;
+}
+.blpath{
+	font-family: arial;
+	font-size: 16px;
+	color:white;
+	margin-left: 42.5em;
+	margin-top: -2.3em;
+}
+.blpafo{
+	font-family: arial;
+	font-size: 16px;
+	color:white;
+	margin-left: 58em;
+	margin-top: -2.2em;
+}
+.blpic{
+	width: 3em;
+	height: 2em;
+	margin-left: 12.6em;
+}
+.iblpa{
+	font-family: arial;
+	font-size: 11px;
+	color:white;
+	margin-left: 24em;
+	margin-top: -3.5em;
+	margin-right: 80em;
+}
+.bacpic{
+	width: 3em;
+	height: 2em;
+	margin-left: 12.6em;
+	margin-top: 20px;
+}
+.bacpara{
+	font-family: arial;
+	font-size: 11px;
+	color:white;
+	margin-left: 24em;
+	margin-top: -3.5em;
+	margin-right: 81em;
+}
+.about{
+	font-family: arial;
+	font-size: 11px;
+	color:white;
+	margin-left: 40.7em;
+	margin-top: -11em;
+	margin-right: 67em;
+}
+.blunoder{
+	font-family: arial;
+	font-size: 11px;
+	color:white;
+	margin-left: 59em;
+	margin-top: -12em;
+	margin-right: 42em;
+}
+.blunoder a{
+	text-decoration: none;
+	color:#098BF7;
+}
+.hellobl{
+	font-family: arial;
+	font-size: 12px;
+	color:white;
+	margin-left: 77.5em;
+	margin-top: -10em;
+	line-height: 1.5em;
+}
+.lightbla{
+	border:1px solid #414141;
+	width: 81.2em;
+	height: 4.3em;
+	background-color: #414141;
+}.lightpa{
+	font-family: arial;
+	font-size: 19px;
+	color:white;
+	margin-top: 25px;
+	margin-left: 10.5em;
+}
+.tags{
+	margin-left: 60em;
+	margin-top: -3em;
+}
